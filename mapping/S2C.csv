@@ -1,0 +1,31 @@
+Category,Chebi
+1.A Nonselective, ! inorganic ion CHEBI:36914; CHEBI:24431 ! chemical entity 
+1.B water,CHEBI:15377 - water
+1.C inorganic cation ,CHEBI:36915  -  inorganic cation 
+1.D inorganic anion ,CHEBI:24834 - Inorganic anion 
+1.E Other inorganic,CHEBI:24835 - inorganic molecular entity
+2.A organic anion,CHEBI:25696 - organic anion
+2.B organic cation,CHEBI:25697 - organic cation
+3.A monosaccharide and derivative,CHEBI:63367 - monosaccharide derivative and CHEBI:35381 - monosaccharide
+3.B oligosaccharide and derivative,CHEBI:50699 - oligosaccharide CHEBI:63563 - oligosaccharide derivative  
+3.C polysaccharide and derivative,"polysaccharide CHEBI:18154, CHEBI:65212"
+4.A monocarboxylic acid,CHEBI:25384 
+4.B dicarboxylic acid,CHEBI:27093 
+4.C tricarboxylic acid,CHEBI:35692 
+5.A amino acid,CHEBI:33709 - amino acid
+5.B amino acid derivative,amino acid derivative (CHEBI:83821) 
+5.C peptide,_CHEBI:16670 peptide
+5.D amine,CHEBI:32952 amine
+5.E polyamin,CHEBI:88061 - polyamine
+5.F protein,CHEBI:36080 protein
+5.G Other oganic amino compounds,organic amino compound (CHEBI:50047)
+6.A nucleobase,CHEBI:18282 -nucleobase
+6.B nucleoside,CHEBI:33838 - nucleoside
+6.C nucleic acid, CHEBI:33696 nucleic acid
+6.D nucleotide,CHEBI:36976 nucleotide
+7.A polyol,CHEBI:26191 polyol
+7.B organophosphorus ,CHEBI:25710 organophosphorus compound
+7.C amide,amide CHEBI:32988
+7.D Other organic,organic molecular entity (CHEBI:50860)
+unspecificed cation,CHEBI:36916
+unspecificed anion,CHEBI:22563
